@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-book-bookmark" %}"An article a day keeps ideas in play"
 
-It's difficult to understate the importance for any knowledge worker to read widely and often. All things are connected in some way or another—finding those connections is the first step toward meaningful contribution to the scientific community. 
+It's difficult to overstate the importance for any knowledge worker to read widely and often. All things are connected in some way or another—finding those connections is the first step toward meaningful contribution to the scientific community. 
 
 Use the tags below to search through our reading recommendations. 
 
