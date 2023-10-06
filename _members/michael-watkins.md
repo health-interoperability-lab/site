@@ -1,5 +1,5 @@
 ---
-name: Michael Watkins, Ph.D.
+name: Michael Watkins
 image: images/mwatkins.jpeg
 role: pi
 aliases:

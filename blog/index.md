@@ -1,14 +1,15 @@
 ---
-title: Blog
+title: Anthology
 nav:
   order: 4
-  tooltip: Musings and miscellany
+  tooltip: Commentary on external articles
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
+# {% include icon.html icon="fa-solid fa-feather-pointed" %}"An article a day keeps ideas in play"
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+It's difficult to understate the importance for any knowledge worker to read widely and often. All things are connected in some way or another, finding those connections allows you to provide meaningful contribution to the scientific community. 
+
+Use the tags below to search through our reading recommendations. 
 
 {% include section.html %}
 
