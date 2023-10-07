@@ -1,8 +1,8 @@
 ---
-title: Anthology
+title: Reading
 nav:
   order: 4
-  tooltip: Commentary on external articles
+  tooltip: Recommendations and primers
 ---
 
 # {% include icon.html icon="fa-solid fa-book-bookmark" %}"An article a day keeps ideas in play"
