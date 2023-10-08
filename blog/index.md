@@ -2,7 +2,7 @@
 title: Reading
 nav:
   order: 4
-  tooltip: Recommendations and primers
+  tooltip: What we're reading
 ---
 
 # {% include icon.html icon="fa-solid fa-book-bookmark" %}"An article a day keeps ideas in play"
