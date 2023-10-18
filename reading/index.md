@@ -19,4 +19,6 @@ Use the tags below to search through our reading recommendations.
 
 {% include search-info.html %}
 
+{% include list.html data="reading-citations" component="citation" style="rich" %}
+
 {% include list.html data="posts" component="post-excerpt" %}
