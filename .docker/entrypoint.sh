@@ -25,3 +25,11 @@ watchmedo shell-command \
     --wait \
     --command="python3 _cite/cite.py" \
     --patterns="_data/sources*;_data/orcid*;_data/pubmed*;_data/google-scholar*" \
+
+# (for reading page) rerun cite process whenever _data files change
+watchmedo shell-command \
+    --debug-force-polling \
+    --recursive \
+    --wait \
+    --command="python3 _cite/reading-cite.py" \
+    --patterns="_data/reading-sources*;_data/orcid*;_data/pubmed*;_data/google-scholar*" \
