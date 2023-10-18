@@ -9,6 +9,9 @@ echo ""
 # run cite process
 python3 _cite/cite.py
 
+# run reading-cite process
+python3 _cite/reading-cite.py
+
 # run jekyll serve in hot-reload mode
 # rerun whenever _config.yaml changes (jekyll hot-reload doesn't work with this file)
 watchmedo auto-restart \
